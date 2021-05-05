@@ -1,0 +1,19 @@
+{ 
+    "siswa" : [
+        {
+            "nama" : "Ronald Abel Hermansyah",
+            "gender" : "L",
+            "tinggal" : "Griya Cipaku"
+        },
+        {
+            "nama" : "Adi Maulana",
+            "gender" : "L",
+            "tinggal" : "Griya Cipaku"
+        },
+        {
+            "nama" : "Fadhel Ahmad",
+            "gender" : "L",
+            "tinggal" : "Cibogo"
+        }
+    ]
+}
